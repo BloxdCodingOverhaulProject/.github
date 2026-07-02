@@ -3,3 +3,5 @@
 
 ## About
 This is **BCOP**, the Bloxd Coding Overhaul Project. We're an invite-only group of bloxd.io coders who redefine Bloxd coding on our Discord server and on GitHub.
+
+We're more active on Discord, and that's where jasninus and Tom are. If you think you have in-depth experience with Bloxd API/JS coding, [apply here](https://discord.gg/ccVCFkM4Uq)! Our staff will review your application via interview.
